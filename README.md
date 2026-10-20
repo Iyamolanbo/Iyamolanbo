@@ -1,8 +1,7 @@
-# Hi there, I'm Devansh 👋
+# Hola internautas, soy Bombela 👋
 
-- 🌱 I'mes
-- ➡️ I'm looking to collaborate on Web Dev Projects 
-- 📫 To contact me: <a href = "https://www.linkedin.com/in/devansh-kant-kashyap-889742319/" >LinkedIn</a> 
+- 🌱 Actualmente me encuentro cursando Desarrollo de Aplicaciones Web
+- ➡️ Estoy abierto a colaborar en proyectos Open Source  
 
 ## Tech Stack
 
