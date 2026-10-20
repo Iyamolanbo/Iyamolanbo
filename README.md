@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Devansh 👋
 
-<!--
-**Iyamolanbo/Iyamolanbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'mes
+- ➡️ I'm looking to collaborate on Web Dev Projects 
+- 📫 To contact me: <a href = "https://www.linkedin.com/in/devansh-kant-kashyap-889742319/" >LinkedIn</a> 
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=whit)
+
+
+### Tools, Databases & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devanshkant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devanshkant&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+
+---
+<img src="https://komarev.com/ghpvc/?username=devanshkant&color=red&style=flat-square&label=Visitors+Count" />
+  <br>
