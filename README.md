@@ -16,7 +16,9 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-## 📊 Análisis de GitHub
-
+## Análisis de GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=Iyamolanbo)](https://git.io/streak-stats)
+
+## Lenguajes más usados
+[![Top Langs](https://vercel.app)](https://github.com/Iyamolanbo/github-readme-stats)
 
