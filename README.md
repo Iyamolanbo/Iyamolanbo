@@ -18,5 +18,5 @@
 
 ## 📊 Análisis de GitHub
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.lukastesar.cz?user=iyamolanbo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Iyamolanbo)](https://git.io/streak-stats)
 </div>
