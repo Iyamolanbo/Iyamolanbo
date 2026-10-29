@@ -19,6 +19,5 @@
 ## Análisis de GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=Iyamolanbo)](https://git.io/streak-stats)
 
-## Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyamolanbo&theme=tokyonight)
+
 
