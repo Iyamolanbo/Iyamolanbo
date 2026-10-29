@@ -1,7 +1,7 @@
 # Hola internautas, soy Bombela 👋🏾
 
 - 🌱 Actualmente me encuentro cursando Desarrollo de Aplicaciones Web
-- ➡️ Estoy abierto a colaborar en proyectos Open Source  
+- ➡️ Abierto a colaborar en proyectos Open Source  
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=whit)
