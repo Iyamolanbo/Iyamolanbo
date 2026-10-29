@@ -3,10 +3,9 @@
 - 🌱 Actualmente me encuentro cursando Desarrollo de Aplicaciones Web
 - ➡️ Estoy abierto a colaborar en proyectos Open Source  
 
-### Languages
+### Lenguajes
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=whit)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 
 ### Herramientas & Plataformas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -19,15 +18,5 @@
 
 ## 📊 Análisis de GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devanshkant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devanshkant&layout=compact&langs_count=8&theme=algolia"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Iyamolanbo)](https://git.io/streak-stats)
 </div>
-
-<br>
-
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Iyamolanbo)](https://git.io/streak-stats)
-</div>
-
-
-  <br>
