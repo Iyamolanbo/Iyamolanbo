@@ -17,11 +17,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devanshkant&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
+<br>
+
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Iyamolanbo&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Iyamolanbo&theme=sakura-x&locale=es)](https://git.io/streak-stats)
 </div>
 
 
----
-<img src="https://komarev.com/ghpvc/?username=devanshkant&color=red&style=flat-square&label=Visitors+Count" />
   <br>
