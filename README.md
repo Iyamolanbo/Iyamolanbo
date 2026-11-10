@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Andrés%20Bombela&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Andrés%20Bombela%20Iyanga%20Molongua&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ### ⚡ De la infraestructura al código · Software & Systems ⚡
 
