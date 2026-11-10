@@ -131,7 +131,7 @@ Desarrollo y herramientas
 | :---: | :--- |
 | **Lenguajes & Web** | `Java` `HTML5` `CSS3` `SQL` |
 | **Sistemas & Redes** | `Linux` `Debian` `Ubuntu` `Cisco` `OpenSSH` `VirtualBox` |
-| **Modelado & Diseño** | `Modelado Entridad-Relación` `Data Modeler` `Dia` |
+| **Modelado & Diseño** | `Modelado Entridad-Relación` `Data Modeler` `<img src="https://img.shields.io/badge/Dia-4B6A88?style=for-the-badge" alt="Dia"/>` |
 | **Dev & Entornos** | `Git` `GitHub` `VS Code` `Eclipse` `NetBeans` |
 
 </div>
