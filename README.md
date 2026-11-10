@@ -19,13 +19,11 @@
 > *"Comprender qué ocurre detrás de cada aplicación y transformar la idea abstracta en una solución funcional."*
 
 ¡Bienvenido a mi espacio en GitHub!<br>
-Soy **Andrés Bombela**, un apasionado del desarrollo y la ingeniería de sistemas en constante evolución. Con una sólida formación previa en **Administración de Sistemas Informáticos en Red (ASIR)** y actualmente cursando **Desarrollo de Aplicaciones Web (DAW)** en MEDAC (Málaga), mi enfoque abarca todo el ciclo de vida tecnológico: desde la infraestructura y los sistemas operativos hasta la programación de software.<br>
+Soy **Andrés Bombela**, un apasionado de la tecnología. Con una sólida formación previa en **Administración de Sistemas Informáticos en Red (ASIR)** y actualmente cursando **Desarrollo de Aplicaciones Web (DAW)** en MEDAC (Málaga), mi enfoque abarca todo el ciclo de vida tecnológico: desde la infraestructura y los sistemas operativos hasta la programación de software.<br>
 
 Mi trayectoria me ha permitido transitar por diferentes capas de la tecnología: redes, bases de datos, virtualización y desarrollo de aplicaciones. No busco aprender tecnologías por inercia ni acumular nombres vacíos en un perfil, sino **comprender los cimientos profundos de la arquitectura informática —desde el silicio y las redes hasta el *bytecode* de Java—** para construir código limpio, eficiente y sostenible.<br>
 
-Actualmente estoy consolidando mis bases en programación orientada a objetos con **Java**, diseño y modelado avanzado de bases de datos (**SQL**) y optimización de flujos de trabajo mediante herramientas de control de versiones.<br>
-
-No busco acumular tecnologías por inercia, sino comprender los cimientos profundos de la arquitectura informática —desde el silicio y las redes hasta el *bytecode* de Java— para construir código limpio, eficiente y robusto.
+Actualmente estoy consolidando mis bases en programación orientada a objetos con **Java**, diseño y modelado avanzado de bases de datos (**SQL**), maquetación decente de una página web y optimización de flujos de trabajo mediante herramientas de control de versiones.<br>
 
 ---
 
