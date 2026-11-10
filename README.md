@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Andrés%20Bombela&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### ⚡ De la infraestructura al código · Software & Systems Engineer in Progress ⚡
+### ⚡ De la infraestructura al código · Software & Systems ⚡
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudiante-DAW_%7C_MEDAC-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" alt="DAW Student">
@@ -93,7 +93,6 @@ Esta etapa me proporcionó una perspectiva más amplia de la informática: enten
 ### 🚀 Proyectos Destacados / Projects
 
 > *"La mejor forma de aprender es construir, errar, auditar y volver a compilar."*
-> En este repositorio de GitHub iré publicando ejercicios, prácticas académicas y proyectos personales relacionados con mi evolución como desarrollador.
 
 | Proyecto | Descripción Técnica | Estado |
 | :--- | :--- | :--- |
@@ -113,12 +112,12 @@ Esta etapa me proporcionó una perspectiva más amplia de la informática: enten
 
 ---
 
-🧠 Más allá del código | Beyond Code
+### 🧠 Más allá del código | Beyond Code
 La informática no es mi único ámbito de interés. También me gusta la electrónica, la poesía, la fotografía, el arte y la creación visual.
 Son disciplinas que me permiten desarrollar la creatividad, la atención al detalle y otra forma de abordar los problemas.
 Me gusta combinar el pensamiento lógico con la creatividad: analizar, diseñar, experimentar y encontrar soluciones.
 
-🫱🏾‍🫲🏾 Contacto | Let's Connect
+### 🫱🏾‍🫲🏾 Contacto | Let's Connect
 Siempre estoy abierto a conocer a otras personas del sector, intercambiar conocimientos, colaborar en proyectos y descubrir nuevas oportunidades de aprendizaje.
 Construyendo hoy las habilidades del profesional que quiero ser mañana.
 <div align="center">
