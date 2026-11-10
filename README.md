@@ -14,17 +14,17 @@
 
 ---
 
-### 👨‍💻 Sobre mí / About Me
+### 👨🏾‍💻 Sobre mí / About Me
 
 > *"Comprender qué ocurre detrás de cada aplicación y transformar la idea abstracta en una solución funcional."*
 
-¡Bienvenido a mi espacio en GitHub!
-Soy Andrés, estudiante del ámbito informático con formación en Administración de Sistemas Informáticos en Red (ASIR) y actualmente cursando Desarrollo de Aplicaciones Web (DAW) en MEDAC, Málaga.
-Mi recorrido por la informática me ha permitido acercarme a diferentes áreas de la tecnología: desde la administración de sistemas operativos, las redes y las bases de datos hasta la programación y el desarrollo de aplicaciones.
-Me interesa especialmente comprender cómo funcionan las cosas, qué ocurre detrás de cada aplicación y cómo transformar una idea en una solución funcional.
-Actualmente estoy ampliando mis conocimientos en Java, programación orientada a objetos, SQL, modelado de bases de datos, desarrollo web y herramientas de control de versiones.
-No busco aprender tecnologías por acumular nombres en un perfil, sino entenderlas, experimentar con ellas y utilizarlas para construir proyectos cada vez más completos.
-Mi objetivo: evolucionar como desarrollador, adquirir experiencia práctica y participar en proyectos donde pueda aportar, aprender y seguir creciendo profesionalmente.
+¡Bienvenido a mi espacio en GitHub! Soy **Andrés Bombela**, un apasionado del desarrollo y la ingeniería de sistemas en constante evolución. Con una sólida formación previa en **Administración de Sistemas Informáticos en Red (ASIR)** y actualmente cursando **Desarrollo de Aplicaciones Web (DAW)** en MEDAC (Málaga), mi enfoque abarca todo el ciclo de vida tecnológico: desde la infraestructura y los sistemas operativos hasta la programación de software.
+
+Mi trayectoria me ha permitido transitar por diferentes capas de la tecnología: redes, bases de datos, virtualización y desarrollo de aplicaciones. No busco aprender tecnologías por inercia ni acumular nombres vacíos en un perfil, sino **comprender los cimientos profundos de la arquitectura informática —desde el silicio y las redes hasta el *bytecode* de Java—** para construir código limpio, eficiente y sostenible.
+
+Actualmente estoy consolidando mis bases en programación orientada a objetos con **Java**, diseño y modelado avanzado de bases de datos (**SQL**), y optimización de flujos de trabajo mediante herramientas de control de versiones. 
+
+**Mi objetivo:** evolucionar como desarrollador, adquirir experiencia técnica real y participar en proyectos innovadores donde pueda aportar rigor, creatividad y muchas ganas de seguir aprendiendo.
 
 No busco acumular tecnologías por inercia, sino comprender los cimientos profundos de la arquitectura informática —desde el silicio y las redes hasta el *bytecode* de Java— para construir código limpio, eficiente y robusto.
 
@@ -41,21 +41,21 @@ Formación orientada al diseño, desarrollo, implementación y mantenimiento de 
 
 Áreas de aprendizaje:
 
-Programación con Java.
+-Programación con Java.
 
-Fundamentos de programación y orientación a objetos.
+-Fundamentos de programación y orientación a objetos.
 
-Diseño y modelado de bases de datos.
+-Diseño y modelado de bases de datos.
 
-SQL y gestión de información.
+-SQL y gestión de información.
 
-Lenguajes de marcas y desarrollo web.
+-Lenguajes de marcas y desarrollo web.
 
-Entornos y herramientas de desarrollo.
+-Entornos y herramientas de desarrollo.
 
-Sistemas informáticos y administración de entornos.
+-Sistemas informáticos y administración de entornos.
 
-Control de versiones y trabajo con Git y GitHub.
+-Control de versiones y trabajo con Git y GitHub.
 
 </details>
 
@@ -66,21 +66,21 @@ Formación técnica centrada en la infraestructura que hace posible el funcionam
 
 Áreas trabajadas:
 
-Administración e implantación de sistemas operativos.
+-Administración e implantación de sistemas operativos.
 
-Planificación y administración de redes.
+-Planificación y administración de redes.
 
-Servicios de red e Internet.
+-Servicios de red e Internet.
 
-Fundamentos de hardware.
+-Fundamentos de hardware.
 
-Administración y gestión de bases de datos.
+-Administración y gestión de bases de datos.
 
-Implantación de aplicaciones web.
+-Implantación de aplicaciones web.
 
-Seguridad y alta disponibilidad.
+-Seguridad y alta disponibilidad.
 
-Lenguajes de marcas.
+-Lenguajes de marcas.
 
 Esta etapa me proporcionó una perspectiva más amplia de la informática: entender no solo el software, sino también los sistemas, las redes y la infraestructura sobre la que funciona.
 
@@ -125,7 +125,7 @@ Esta etapa me proporcionó una perspectiva más amplia de la informática: enten
 | Proyecto | Descripción Técnica | Estado |
 | :--- | :--- | :--- |
 | **AeroCheck-In-CLI** | Aplicación de gestión en línea de comandos orientada a objetos en Java. | 🟡 *En desarrollo activo* |
-| **Prácticas DAW** | Prácticas académicas de Java, estructuras de datos y persistencia SQL. | 🟢 *Constante* |
+| **Prácticas DAW** | Prácticas académicas de Java, maquetado de páginas web, estructuras de datos y persistencia SQL. | 🟢 *Constante* |
 | **Modelado de Datos E/R** | Diseños normalizados de esquemas relacionales y esquemas lógicos. | 🔵 *Completado* |
 
 ---
