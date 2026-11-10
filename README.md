@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/badge/Ex--ASIR-Infraestructura_%26_Redes-7000FF?style=for-the-badge&logo=linux&logoColor=white" alt="ASIR Background">
   <img src="https://img.shields.io/badge/Málaga-España-FF0055?style=for-the-badge&logo=mapprecision&logoColor=white" alt="Málaga">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-DAW_%7C_MEDAC-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" alt="DAW Student">
+  <img src="https://img.shields.io/badge/Ex--ASIR-Infraestructura_%26_Redes-7000FF?style=for-the-badge&logo=linux&logoColor=white" alt="ASIR Background">
+  <img src="https://img.shields.io/badge/Málaga-España-FF0055?style=for-the-badge&logo=mapprecision&logoColor=white" alt="Málaga">
+</p>
 
 </div>
 
@@ -160,8 +165,6 @@ Construyendo hoy las habilidades del profesional que quiero ser mañana.
 
 ### 📊 GitHub Analytics
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Iyamolanbo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyamolanbo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyamolanbo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 <sub>Las estadísticas se actualizan dinámicamente y dependen de la actividad pública de los repositorios.</sub>
 <br/>
