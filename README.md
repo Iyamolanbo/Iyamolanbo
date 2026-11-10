@@ -18,18 +18,45 @@
 
 > *"Comprender qué ocurre detrás de cada aplicación y transformar la idea abstracta en una solución funcional."*
 
-Soy **Andrés Bombela**, estudiante del ámbito tecnológico en Málaga. Mi trayectoria combina una sólida base en la administración de sistemas, redes y hardware (**ASIR**), con el desarrollo de software y aplicaciones web orientadas a objetos (**DAW** en MEDAC). 
+¡Bienvenido a mi espacio en GitHub!
+Soy Andrés, estudiante del ámbito informático con formación en Administración de Sistemas Informáticos en Red (ASIR) y actualmente cursando Desarrollo de Aplicaciones Web (DAW) en MEDAC, Málaga.
+Mi recorrido por la informática me ha permitido acercarme a diferentes áreas de la tecnología: desde la administración de sistemas operativos, las redes y las bases de datos hasta la programación y el desarrollo de aplicaciones.
+Me interesa especialmente comprender cómo funcionan las cosas, qué ocurre detrás de cada aplicación y cómo transformar una idea en una solución funcional.
+Actualmente estoy ampliando mis conocimientos en Java, programación orientada a objetos, SQL, modelado de bases de datos, desarrollo web y herramientas de control de versiones.
+No busco aprender tecnologías por acumular nombres en un perfil, sino entenderlas, experimentar con ellas y utilizarlas para construir proyectos cada vez más completos.
+Mi objetivo: evolucionar como desarrollador, adquirir experiencia práctica y participar en proyectos donde pueda aportar, aprender y seguir creciendo profesionalmente.
 
 No busco acumular tecnologías por inercia, sino comprender los cimientos profundos de la arquitectura informática —desde el silicio y las redes hasta el *bytecode* de Java— para construir código limpio, eficiente y robusto.
 
 ---
 
-### 🎓 Formación Académica / Education
-
-| Nivel / Ciclo | Centro & Enfoque | Áreas Clave |
-| :--- | :--- | :--- |
-| **Desarrollo de Aplicaciones Web (DAW)**<br>*(En curso)* | **MEDAC** (Málaga)<br>*Diseño e implantación de apps web* | • Programación Orientada a Objetos (Java)<br>• Bases de datos relacionales & Modelado E/R<br>• SQL y gestión de información<br>• Entornos de desarrollo y control de versiones (Git) |
-| **Administración de Sistemas en Red (ASIR)**<br>*(Formación previa)* | Infraestructura & Redes<br>*Sistemas y alta disponibilidad* | • Administración de sistemas operativos (Linux/Windows)<br>• Planificación de redes y servicios de red (Cisco)<br>• Seguridad, virtualización y despliegue web |
+🎓 Formación | Education
+<details open> <summary><strong>💻 Desarrollo de Aplicaciones Web (DAW)</strong> · En curso</summary>
+MEDAC · Málaga
+Formación orientada al diseño, desarrollo, implementación y mantenimiento de aplicaciones web.
+Áreas de aprendizaje:
+Programación con Java.
+Fundamentos de programación y orientación a objetos.
+Diseño y modelado de bases de datos.
+SQL y gestión de información.
+Lenguajes de marcas y desarrollo web.
+Entornos y herramientas de desarrollo.
+Sistemas informáticos y administración de entornos.
+Control de versiones y trabajo con Git y GitHub.
+</details>
+<details> <summary><strong>🖥️ Administración de Sistemas Informáticos en Red (ASIR)</strong> · Formación previa</summary>
+Formación técnica centrada en la infraestructura que hace posible el funcionamiento de los sistemas informáticos y los servicios en red.
+Áreas trabajadas:
+Administración e implantación de sistemas operativos.
+Planificación y administración de redes.
+Servicios de red e Internet.
+Fundamentos de hardware.
+Administración y gestión de bases de datos.
+Implantación de aplicaciones web.
+Seguridad y alta disponibilidad.
+Lenguajes de marcas.
+Esta etapa me proporcionó una perspectiva más amplia de la informática: entender no solo el software, sino también los sistemas, las redes y la infraestructura sobre la que funciona.
+</details>
 
 ---
 
@@ -66,6 +93,7 @@ No busco acumular tecnologías por inercia, sino comprender los cimientos profun
 ### 🚀 Proyectos Destacados / Projects
 
 > *"La mejor forma de aprender es construir, errar, auditar y volver a compilar."*
+> En este repositorio de GitHub iré publicando ejercicios, prácticas académicas y proyectos personales relacionados con mi evolución como desarrollador.
 
 | Proyecto | Descripción Técnica | Estado |
 | :--- | :--- | :--- |
@@ -85,31 +113,23 @@ No busco acumular tecnologías por inercia, sino comprender los cimientos profun
 
 ---
 
-### 🧠 Más allá del código / Beyond Code
-> *Combinando el rigor del pensamiento lógico con la perspectiva visual de la fotografía y el diseño digital.*
+🧠 Más allá del código | Beyond Code
+La informática no es mi único ámbito de interés. También me gusta la electrónica, la poesía, la fotografía, el arte y la creación visual.
+Son disciplinas que me permiten desarrollar la creatividad, la atención al detalle y otra forma de abordar los problemas.
+Me gusta combinar el pensamiento lógico con la creatividad: analizar, diseñar, experimentar y encontrar soluciones.
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Iyamolanbo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyamolanbo&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyamolanbo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
+🫱🏾‍🫲🏾 Contacto | Let's Connect
+Siempre estoy abierto a conocer a otras personas del sector, intercambiar conocimientos, colaborar en proyectos y descubrir nuevas oportunidades de aprendizaje.
+Construyendo hoy las habilidades del profesional que quiero ser mañana.
+<div align="center">
+</div>
 
 <div align="center">
-
-### 🤝 Conecta conmigo / Let's Connect
-**Abierto a sinergias tecnológicas, proyectos colaborativos y aprendizaje continuo.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=80&section=footer" width="100%"/>
-
-*Thanks for stopping by! Keep learning, keep building. 🚀*
-
+📊 GitHub Analytics
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Iyamolanbo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyamolanbo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyamolanbo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<sub>Las estadísticas se actualizan dinámicamente y dependen de la actividad pública de los repositorios.</sub>
+<br/>
+Thanks for stopping by! Keep learning, keep building. 🚀
 </div>
