@@ -30,32 +30,60 @@ No busco acumular tecnologías por inercia, sino comprender los cimientos profun
 
 ---
 
-🎓 Formación | Education
-<details open> <summary><strong>💻 Desarrollo de Aplicaciones Web (DAW)</strong> · En curso</summary>
+### 🎓 Formación Académica / Education
+
+<details open>
+<summary><strong>💻 Desarrollo de Aplicaciones Web (DAW)</strong> · En curso</summary>
+
 MEDAC · Málaga
+
 Formación orientada al diseño, desarrollo, implementación y mantenimiento de aplicaciones web.
+
 Áreas de aprendizaje:
+
 Programación con Java.
+
 Fundamentos de programación y orientación a objetos.
+
 Diseño y modelado de bases de datos.
+
 SQL y gestión de información.
+
 Lenguajes de marcas y desarrollo web.
+
 Entornos y herramientas de desarrollo.
+
 Sistemas informáticos y administración de entornos.
+
 Control de versiones y trabajo con Git y GitHub.
+
 </details>
-<details> <summary><strong>🖥️ Administración de Sistemas Informáticos en Red (ASIR)</strong> · Formación previa</summary>
+
+<details>
+<summary><strong>🖥️ Administración de Sistemas Informáticos en Red (ASIR)</strong> · Formación previa</summary>
+
 Formación técnica centrada en la infraestructura que hace posible el funcionamiento de los sistemas informáticos y los servicios en red.
+
 Áreas trabajadas:
+
 Administración e implantación de sistemas operativos.
+
 Planificación y administración de redes.
+
 Servicios de red e Internet.
+
 Fundamentos de hardware.
+
 Administración y gestión de bases de datos.
+
 Implantación de aplicaciones web.
+
 Seguridad y alta disponibilidad.
+
 Lenguajes de marcas.
+
 Esta etapa me proporcionó una perspectiva más amplia de la informática: entender no solo el software, sino también los sistemas, las redes y la infraestructura sobre la que funciona.
+
 </details>
 
 ---
@@ -117,11 +145,15 @@ La informática no es mi único ámbito de interés. También me gusta la electr
 Son disciplinas que me permiten desarrollar la creatividad, la atención al detalle y otra forma de abordar los problemas.
 Me gusta combinar el pensamiento lógico con la creatividad: analizar, diseñar, experimentar y encontrar soluciones.
 
+---
+
 ### 🫱🏾‍🫲🏾 Contacto | Let's Connect
 Siempre estoy abierto a conocer a otras personas del sector, intercambiar conocimientos, colaborar en proyectos y descubrir nuevas oportunidades de aprendizaje.
 Construyendo hoy las habilidades del profesional que quiero ser mañana.
 <div align="center">
 </div>
+
+---
 
 <div align="center">
 📊 GitHub Analytics
