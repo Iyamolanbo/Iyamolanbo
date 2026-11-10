@@ -158,8 +158,8 @@ Construyendo hoy las habilidades del profesional que quiero ser mañana.
 
 ---
 
+### 📊 GitHub Analytics
 <div align="center">
-📊 GitHub Analytics
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Iyamolanbo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyamolanbo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyamolanbo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
