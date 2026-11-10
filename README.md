@@ -161,7 +161,7 @@ Construyendo hoy las habilidades del profesional que quiero ser mañana.
 
 ### 📊 GitHub Analytics
 <div align="center">
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyamolanbo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyamolanbo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/><br/>
 <sub>Las estadísticas se actualizan dinámicamente y dependen de la actividad pública de los repositorios.</sub>
 <br/>
 Thanks for stopping by! Keep learning, keep building. 🚀
