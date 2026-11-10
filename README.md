@@ -89,50 +89,15 @@ Esta etapa me proporcionó una perspectiva más amplia de la informática: enten
 
 ### 🛠️ Tech Stack & Herramientas
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-Bases de datos y modelado
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/ER_Modeling-7952B3?style=for-the-badge" alt="Modelado entidad-relación"/>
-  <img src="https://img.shields.io/badge/Data_Modeler-4479A1?style=for-the-badge" alt="Data Modeler"/>
-</p>
-
-Sistemas, redes y administración
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/OpenSSH-2D2D2D?style=for-the-badge&logo=openssh&logoColor=white" alt="OpenSSH"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
-</p>
-
-Desarrollo y herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-
-
-
-</p>
 
 <div align="center">
 
 | Categoría | Tecnologías |
 | :---: | :--- |
-| **Lenguajes & Web** | `Java` `HTML5` `CSS3` `SQL` |
-| **Sistemas & Redes** | `Linux` `Debian` `Ubuntu` `Cisco` `OpenSSH` `VirtualBox` |
-| **Modelado & Diseño** | `Modelado Entridad-Relación` `Data Modeler` <img src="https://img.shields.io/badge/Dia-4B6A88?style=for-the-badge" alt="Dia"/> |
-| **Dev & Entornos** | `Git` `GitHub`   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/> |
+| **Lenguajes & Web** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/> |
+| **Sistemas & Redes** | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/> <img src="https://img.shields.io/badge/OpenSSH-2D2D2D?style=for-the-badge&logo=openssh&logoColor=white" alt="OpenSSH"/>  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/> |
+| **Modelado & Diseño** | <img src="https://img.shields.io/badge/ER_Modeling-7952B3?style=for-the-badge" alt="Modelado entidad-relación"/>  <img src="https://img.shields.io/badge/Data_Modeler-4479A1?style=for-the-badge" alt="Data Modeler"/> <img src="https://img.shields.io/badge/Dia-4B6A88?style=for-the-badge" alt="Dia"/> |
+| **Dev & Entornos** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/> |
 
 </div>
 
